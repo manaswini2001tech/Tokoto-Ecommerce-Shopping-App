@@ -11,7 +11,8 @@
 5. Manasi Patil
 
 
-
+# Technologies used
+Dart and Flutter
 
 
 
