@@ -1,4 +1,5 @@
 # E-Commerce Shopping App - TOKOTO
+
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
@@ -10,10 +11,10 @@
 4. Dhanshree Chavan
 5. Manasi Patil
 
-
 # Technologies used
 Dart and Flutter
 
-
+# TOKOTO
+![tokoto] https://github.com/manaswini2001tech/Tokoto-Ecommerce-Shopping-App/blob/main/tokoto.png
 
 
