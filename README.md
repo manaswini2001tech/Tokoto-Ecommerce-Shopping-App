@@ -7,7 +7,7 @@
 1. Manaswini Peram
 2. Sneha Jadhav
 3. Khushbu Parmar
-4. Dhanashree Chavan
+4. Dhanshree Chavan
 5. Manasi Patil
 
 
