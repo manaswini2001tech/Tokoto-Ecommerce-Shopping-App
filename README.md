@@ -15,10 +15,7 @@
 Dart and Flutter
 
 # TOKOTO
-<p align="center">
-![tokoto](https://github.com/manaswini2001tech/Tokoto-Ecommerce-Shopping-App/blob/main/tokoto.png)
-</p>
 
-<p align="center">
-  
-</p>
+![tokoto](https://github.com/manaswini2001tech/Tokoto-Ecommerce-Shopping-App/blob/main/tokoto.png)
+
+
